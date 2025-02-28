@@ -1,0 +1,14 @@
+{
+  "program": "sandesh_token_faucet_program.aleo",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+    "network": "testnet",
+    "dependencies": [
+      {
+        "name": "token_registry.aleo",
+        "location": "network",
+        "network": "testnet"
+      }
+    ]
+}
